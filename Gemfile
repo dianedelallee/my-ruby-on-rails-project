@@ -31,7 +31,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'binding_of_caller', '~> 0.8.0'
 
 # MAke errors better looking
-gem 'better_errors', '~> 2.5.1'
+gem 'better_errors', '~> 2.9.1'
 
 # bulma CSS
 gem 'bulma-rails', '~> 0.8.0'
@@ -57,7 +57,7 @@ group :development do
   # guard-relive 
   gem 'guard-livereload', '~>2.5', '>=2.5.2', require: false
   # MAke errors better looking
-  gem 'better_errors', '~> 2.5.1'
+  gem 'better_errors', '~> 2.9.1'
 end
 
 group :test do
